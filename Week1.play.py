@@ -12,3 +12,4 @@ y.backward()
 print(x.grad)
 print(w.grad)
 print(b.grad)
+
