@@ -53,3 +53,4 @@ plt.plot(x_train.numpy(), y_train.numpy(), 'ro', label='Original data')
 plt.plot(x_train.numpy(), predict, label='Fitting Line')
 plt.show()
 
+ 
