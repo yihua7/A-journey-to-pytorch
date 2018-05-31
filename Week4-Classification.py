@@ -56,4 +56,5 @@ for i in range(100):
 
 plt.ioff()
 plt.show()
+# Need learning something about visualization.....
 
